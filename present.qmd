@@ -1,0 +1,44 @@
+---
+title: "test"
+format:
+  revealjs:
+    multiplex: true
+---
+
+# In the morning
+
+## Getting up
+
+-   Turn off alarm
+-   Get out of bed
+
+## Breakfast
+
+-   Eat eggs
+-   Drink coffee
+
+# In the evening
+
+## Dinner
+
+::: {.incremental}
+
+- Eat spaghetti
+- Drink wine
+
+:::
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+- Eat spaghetti
+- Drink wine
+:::
+
+::: {.column width="60%"}
+- Eat spaghetti
+- Drink wine
+:::
+
+::::
